@@ -1,0 +1,6 @@
+<svg viewBox="0 0 400 130" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="130" fill="black" />
+    <text x="200" y="85" font-family="Arial" font-weight="bold" font-size="48" text-anchor="middle">
+        <tspan fill="#007749">afri</tspan><tspan fill="#FDB813">va</tspan><tspan fill="#CE1126">go</tspan>
+    </text>
+</svg>

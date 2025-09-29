@@ -1,0 +1,2 @@
+import RentalUnitMiniOnboardingContainer from './RentalUnitMiniOnboardingContainer';
+export default RentalUnitMiniOnboardingContainer; 
